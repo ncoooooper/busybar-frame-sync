@@ -51,4 +51,4 @@ const fields=[
     "step": 1
   }
 ];
-worksheet({name:"Frame Sync",fields,calculate,accent:"#B695F0",motion:{"motif":"interval","color":"#B695F0","shine":"#F8E8FF"}});
+worksheet({name:"Frame Sync",fields,calculate,accent:"#B695F0",motion:{enabled:false}});

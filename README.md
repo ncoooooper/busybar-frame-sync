@@ -4,6 +4,8 @@ Locate a musical beat on an editing timeline at your selected BPM and frame rate
 
 Place an edit on a specific musical beat without counting frames by hand. The bar gives you both the nearest frame and the time at that frame, including a timeline offset if your music starts after zero.
 
+The frame and time pages show one tick per beat in the selected meter. The taller tick marks the beat used to calculate the cut.
+
 ## Find a cut by bar and beat
 
 1. Click to enter tempo, timeline frame rate, beats per bar, bar number, beat and optional offset in frames. Turn to change a field and click to advance.
