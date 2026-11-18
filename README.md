@@ -6,6 +6,20 @@ Place an edit on a specific musical beat without counting frames by hand. The ba
 
 The frame and time pages show one tick per beat in the selected meter. The taller tick marks the beat used to calculate the cut.
 
+## Screen transitions
+
+Follow the cut from bar and beat to the timing for a different tempo.
+
+![Frame Sync front display. Follow the cut from bar and beat to the timing for a different tempo.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Frame Sync rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Find a cut by bar and beat
 
 1. Click to enter tempo, timeline frame rate, beats per bar, bar number, beat and optional offset in frames. Turn to change a field and click to advance.
@@ -36,6 +50,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)

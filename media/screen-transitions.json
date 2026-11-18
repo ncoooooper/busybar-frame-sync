@@ -1,0 +1,61 @@
+{
+  "app": "busybar-frame-sync",
+  "sha256": "4304df184887b9455da3ba6aa99cb467f1c859ce8bda1d3dec1c06afbace5db9",
+  "rapid_input_test": {
+    "app": "io.ncoooooper.framesync",
+    "sha256": "4304df184887b9455da3ba6aa99cb467f1c859ce8bda1d3dec1c06afbace5db9",
+    "firmware": {
+      "name": "1.3.1",
+      "commit": "8edd2da4"
+    },
+    "heap_peak_kib": 93.8,
+    "budget_kib": 128.0,
+    "exit": "finished"
+  },
+  "firmware": "1.3.1",
+  "cell": 16,
+  "lit": 14,
+  "front": [
+    72,
+    16
+  ],
+  "rear": [
+    160,
+    80
+  ],
+  "captures": [
+    {
+      "mode": "classic",
+      "guides": [
+        "compare-frame-and-time",
+        "edit-timeline-tempo"
+      ],
+      "tour": "screen-transitions",
+      "input": [
+        [
+          "up"
+        ],
+        [
+          "down",
+          "ok",
+          "up",
+          "down",
+          "start"
+        ],
+        [
+          "down",
+          "up",
+          "ok"
+        ]
+      ],
+      "distinct_frames": [
+        7,
+        29,
+        53
+      ],
+      "rear_frames": 10,
+      "rear_tour": "screen-transitions-rear",
+      "exit": "finished"
+    }
+  ]
+}

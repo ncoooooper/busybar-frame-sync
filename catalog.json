@@ -2,5 +2,5 @@
   "category": "music",
   "short_description": "Locate a musical beat on an editing timeline at your selected BPM and frame rate.",
   "description": "Locate a musical beat on an editing timeline at your selected BPM and frame rate. At 120 BPM and 25 fps, the first beat of bar nine in 4/4 lands on frame 400.",
-  "changelog": "First public version."
+  "changelog": "New screen transitions and high-contrast LED previews."
 }

@@ -2,7 +2,7 @@
   "format_version": 1,
   "id": "io.ncoooooper.framesync",
   "name": "Frame Sync",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "api_version": "27.12.0",
   "description": "Locate a musical beat on an editing timeline at your selected BPM and frame rate.",
   "author": "ncoooooper"
