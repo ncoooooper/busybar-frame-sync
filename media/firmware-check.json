@@ -1,0 +1,17 @@
+{
+  "id": "BB-057",
+  "source": "Local on-device computation using editable numeric inputs.",
+  "scenario": "At 120 BPM and 25 fps, the first beat of bar nine in 4/4 lands on frame 400.",
+  "keys": [
+    "up",
+    "down",
+    "ok",
+    "up",
+    "down",
+    "start"
+  ],
+  "frames": 54,
+  "distinct_frames": 21,
+  "exit": "App io.ncoooooper.framesync exited: finished; heap peak 81.6 of 128 KiB",
+  "sha256": "ea6e8f7ffea2d2724e859d49b3be0898b0c08f8618d2c52a7ca91db13f50215f"
+}
